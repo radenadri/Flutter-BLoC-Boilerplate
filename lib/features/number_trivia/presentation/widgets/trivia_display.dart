@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_number_trivia/features/number_trivia/domain/entities/number_trivia.dart';
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/entities/number_trivia.dart';
 
 class TriviaDisplay extends StatelessWidget {
   final NumberTrivia numberTrivia;

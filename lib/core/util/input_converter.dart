@@ -1,4 +1,4 @@
-import 'package:flutter_number_trivia/core/error/failures.dart';
+import 'package:flutter_bloc_number_trivia/core/error/failures.dart';
 import 'package:dartz/dartz.dart';
 
 class InputConverter {

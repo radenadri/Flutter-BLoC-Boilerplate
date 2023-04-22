@@ -1,13 +1,13 @@
 import 'package:bloc/bloc.dart';
 import 'package:dartz/dartz.dart';
-import 'package:flutter_number_trivia/core/error/failures.dart';
-import 'package:flutter_number_trivia/core/usecases/usecase.dart';
-import 'package:flutter_number_trivia/core/util/input_converter.dart';
-import 'package:flutter_number_trivia/features/number_trivia/domain/entities/number_trivia.dart';
-import 'package:flutter_number_trivia/features/number_trivia/domain/usecases/get_concrete_number_trivia.dart';
-import 'package:flutter_number_trivia/features/number_trivia/domain/usecases/get_random_number_trivia.dart';
-import 'package:flutter_number_trivia/features/number_trivia/presentation/bloc/number_trivia_event.dart';
-import 'package:flutter_number_trivia/features/number_trivia/presentation/bloc/number_trivia_state.dart';
+import 'package:flutter_bloc_number_trivia/core/error/failures.dart';
+import 'package:flutter_bloc_number_trivia/core/usecases/usecase.dart';
+import 'package:flutter_bloc_number_trivia/core/util/input_converter.dart';
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/entities/number_trivia.dart';
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/usecases/get_concrete_number_trivia.dart';
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/usecases/get_random_number_trivia.dart';
+import 'package:flutter_bloc_number_trivia/features/number_trivia/presentation/bloc/number_trivia_event.dart';
+import 'package:flutter_bloc_number_trivia/features/number_trivia/presentation/bloc/number_trivia_state.dart';
 
 const String serverFailureMessage = 'Server Failure';
 const String cacheFailureMessage = 'Cache Failure';

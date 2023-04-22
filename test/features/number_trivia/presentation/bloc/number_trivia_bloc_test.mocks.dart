@@ -5,16 +5,17 @@
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'dart:async' as _i5;
 
-import 'package:flutter_number_trivia/core/error/failures.dart' as _i6;
-import 'package:flutter_number_trivia/core/usecases/usecase.dart' as _i9;
-import 'package:flutter_number_trivia/core/util/input_converter.dart' as _i10;
-import 'package:flutter_number_trivia/features/number_trivia/domain/entities/number_trivia.dart'
+import 'package:flutter_bloc_number_trivia/core/error/failures.dart' as _i6;
+import 'package:flutter_bloc_number_trivia/core/usecases/usecase.dart' as _i9;
+import 'package:flutter_bloc_number_trivia/core/util/input_converter.dart'
+    as _i10;
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/entities/number_trivia.dart'
     as _i7;
-import 'package:flutter_number_trivia/features/number_trivia/domain/repositories/number_trivia_repository.dart'
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/repositories/number_trivia_repository.dart'
     as _i2;
-import 'package:flutter_number_trivia/features/number_trivia/domain/usecases/get_concrete_number_trivia.dart'
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/usecases/get_concrete_number_trivia.dart'
     as _i4;
-import 'package:flutter_number_trivia/features/number_trivia/domain/usecases/get_random_number_trivia.dart'
+import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/usecases/get_random_number_trivia.dart'
     as _i8;
 import 'package:dartz/dartz.dart' as _i3;
 import 'package:mockito/mockito.dart' as _i1;

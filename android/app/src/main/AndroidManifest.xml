@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_number_trivia">
+    package="com.radenadri.flutter_bloc_number_trivia">
    <application
-        android:label="flutter_number_trivia"
+        android:label="BLoC - Number Trivia"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
