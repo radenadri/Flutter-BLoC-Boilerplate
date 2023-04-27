@@ -1,7 +1,7 @@
-# TDD Clean Architecture for Flutter
+# flutter-bloc-number-trivia
 
-<h3 align="center">Architecture Proposal</h3>
+A Flutter Clean Architecture Using [BLoC](https://github.com/felangel/bloc).
 
-<br />
+## Workflow
 
-<img src="./architecture-proposal.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+![alt text](/architecture-proposal.png?raw=true)
