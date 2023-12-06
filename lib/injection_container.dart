@@ -3,8 +3,8 @@ import 'package:http/http.dart' as http;
 import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'core/network/network_info.dart';
-import 'core/util/input_converter.dart';
+import 'core/utils/network_info.dart';
+import 'core/utils/input_converter.dart';
 import 'features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'features/number_trivia/data/repositories/number_trivia_repository_impl.dart';

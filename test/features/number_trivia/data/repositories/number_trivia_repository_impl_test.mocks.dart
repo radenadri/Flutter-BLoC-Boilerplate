@@ -5,8 +5,7 @@
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'dart:async' as _i4;
 
-import 'package:flutter_bloc_number_trivia/core/network/network_info.dart'
-    as _i6;
+import 'package:flutter_bloc_number_trivia/core/utils/network_info.dart' as _i6;
 import 'package:flutter_bloc_number_trivia/features/number_trivia/data/datasources/number_trivia_local_data_source.dart'
     as _i5;
 import 'package:flutter_bloc_number_trivia/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart'

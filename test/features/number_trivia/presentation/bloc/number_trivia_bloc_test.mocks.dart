@@ -7,7 +7,7 @@ import 'dart:async' as _i5;
 
 import 'package:flutter_bloc_number_trivia/core/error/failures.dart' as _i6;
 import 'package:flutter_bloc_number_trivia/core/usecases/usecase.dart' as _i9;
-import 'package:flutter_bloc_number_trivia/core/util/input_converter.dart'
+import 'package:flutter_bloc_number_trivia/core/utils/input_converter.dart'
     as _i10;
 import 'package:flutter_bloc_number_trivia/features/number_trivia/domain/entities/number_trivia.dart'
     as _i7;
